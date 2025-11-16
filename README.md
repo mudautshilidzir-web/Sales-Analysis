@@ -36,7 +36,7 @@ reports, charts, and KPIs that summarize key findings and support decision-makin
 Recommendations:
 Suggestions for optimizing pricing strategies, promotions, and overall sales performance based on the analysis
 
-##Tools Used
+## Tools Used
 
 SQL — for data extraction, classification, and aggregation.
 
