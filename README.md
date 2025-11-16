@@ -38,19 +38,15 @@ Suggestions for optimizing pricing strategies, promotions, and overall sales per
 
 ##Tools Used
 
-Microsoft Excel 
-For data cleaning, calculations, basic visualizations, and summary tables.
+SQL — for data extraction, classification, and aggregation.
 
-Snowflake
-For extracting, querying, and aggregating sales data
+-Snowflake-for data storage, querying, and analytics.
 
-Data Visualization 
+-Excel -Data visualization, charts, and pivot analysis.
 
-Excel charts for dashboards and interactive visualizations
+-Canva -Report design, infographics, and presentation slides.
 
-
-
-
+-Miro -Project planning, brainstorming, and workflow visualization
 
 
 
