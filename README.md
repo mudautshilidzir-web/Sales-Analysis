@@ -11,10 +11,47 @@ daily gross profit percentages, and price elasticity of demand during promotiona
 the project aims to identify trends, patterns, and insights through visualizations, reports, and KPIs to support strategic decisions for improving sales
 and profitability. The ultimate goal is to provide actionable recommendations for the store’s management based on data-driven finding
 
-## ObjectivesObjectives
+## Objectives
 
 Calculate key sales metrics: daily unit price, average unit price, and daily gross profit.
 
 Analyze three promotional periods to assess Price Elasticity of Demand and sales performance.
 
 Identify trends, patterns, and insights through visualizations, dashboards, and KPIs.
+
+##Expected Outcomes
+
+Understanding of Sales Performance:
+Clear insight into daily sales trends, unit prices, and profitability.
+
+Evaluation of Promotions:
+Assessment of how promotional periods affect sales and price sensitivity (Price Elasticity of Demand).
+
+Actionable Insights:
+Identification of patterns or anomalies that can guide marketing, pricing, and inventory decisions.
+
+Visual and Analytical Deliverables:
+reports, charts, and KPIs that summarize key findings and support decision-making.
+
+Recommendations:
+Suggestions for optimizing pricing strategies, promotions, and overall sales performance based on the analysis
+
+##Tools Used
+
+Microsoft Excel 
+For data cleaning, calculations, basic visualizations, and summary tables.
+
+Snowflake
+For extracting, querying, and aggregating sales data
+
+Data Visualization 
+
+Excel charts for dashboards and interactive visualizations
+
+
+
+
+
+
+
+
